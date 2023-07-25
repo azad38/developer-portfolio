@@ -1,3 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
 h1{
-    color: blue;
+    font-size: 50px;
+}
+.name-color{
+    color: chocolate;
 }
